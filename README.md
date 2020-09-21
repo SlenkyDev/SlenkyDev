@@ -1,9 +1,3 @@
-### Vitaj na mojom profile! 👋
-
-<!--
-**SlenkyDev/SlenkyDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 😄 Momentálne pracujem na [Botovi Mr. Slenk ](https://github.com/SlenkyDev/MrSlenkPTB)
 - ⚡ Momentálne sa učím JavaScript

@@ -1,4 +1,4 @@
-<h1> Vitaj! 👋 </h1>
+<h1> Vitaj! 👋🏻 </h1>
 
  💚 Vlastním Minecraft server [GetDownia](https://getdownia.eu)
 

@@ -1,6 +1,7 @@
 <h1> Vitaj! 👋🏻 </h1>
 
- 💚 Vlastním Minecraft server [GetDownia](https://getdownia.eu)
+- 💚 Vlastním Minecraft server [GetDownia](https://getdownia.eu)
+- 🚰 Nájdeš ma na [SpigotMC Fórumoch]()
 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MrSlenky&show_icons=true)

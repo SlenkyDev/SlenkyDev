@@ -10,7 +10,7 @@
 ### 💽 Projekty
 - 🎄 Momentálne pracujem hlavne na botovi [Ježiško](https://jezisko.me)
 - 🚧 Vlastním súkromný Minecraft Survival server [raketka.live](https://raketka.live)
-[![MCSTATUS](https://img.shields.io/website?down_message=Offline&label=Minecraft%20Server&up_message=Online&url=http%3A%2F%2F89.203.251.190%3A25568%2F)
+![MCSTATUS](https://img.shields.io/website?down_message=Offline&label=Minecraft%20Server&up_message=Online&url=http%3A%2F%2F89.203.251.190%3A25568%2F)
 
 ### 📜 Štatistiky 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MrSlenky&show_icons=true)

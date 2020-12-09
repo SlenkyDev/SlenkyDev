@@ -7,8 +7,9 @@
 #### 🔊 Spotify 
 [![Spotify](https://novatorem-delta-eight.vercel.app/api/spotify)](https://open.spotify.com/user/21gfgmyr4dc6ihzt7oayrq75a)
 
-### 🍅 Projekty
+### 💽 Projekty
 - 🎄 Momentálne pracujem hlavne na botovi [Ježiško](https://jezisko.me)
+- 🚧 Vlastním súkromný Minecraft Survival server [raketka.live](https://raketka.live)
 
 ### 📜 Štatistiky 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MrSlenky&show_icons=true)

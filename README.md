@@ -5,7 +5,7 @@
 - 🍒 Viem "programovať" v HTML a CSS
 
 ### 💽 Projekty
-- 📍 Momentálne pracujem hlavne na Minecraft serveri [Lendmark](https://lendmark.sk)
+- 📍 Momentálne pracujem hlavne na Minecraft serveri @LendMark-sk
 
 ### 📜 Štatistiky 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MrSlenky&show_icons=true)

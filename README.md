@@ -9,4 +9,4 @@
 
 ### 📜 Štatistiky 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Slenkston&show_icons=true)
-[![Top Jazyky](https://github-readme-stats.vercel.app/api/top-langs/?username=MrSlenky)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Jazyky](https://github-readme-stats.vercel.app/api/top-langs/?username=Slenkston)](https://github.com/anuraghazra/github-readme-stats)

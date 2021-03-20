@@ -1,5 +1,5 @@
 <div align="center">
-    <a href="https://slenky.net"><img src="https://i.imgur.com/4P60OXt.jpg" height="400" width="400"></a>
+    <a href="https://slenky.net"><img src="https://i.imgur.com/4P60OXt.jpg" height="250" width="250"></a>
     <h1>Slenky</h1>
     <img src="https://forthebadge.com/images/badges/powered-by-black-magic.svg" height="30">&nbsp;
 </div>

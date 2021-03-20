@@ -1,11 +1,6 @@
-<h1> Vitaj! 👋🏻 </h1>
-
-#### Ahoj, moje meno je Slenky! 🌙
-- 🍌 Učím sa programovať v JavaScripte
-- 🍒 Viem "programovať" v HTML a CSS
-
-### 💽 Projekty
-- 📍 Momentálne pracujem hlavne na Minecraft serveri [Lendmark](https://lendmark.sk)
+<div align="center>
+           <img src=https://forthebadge.com/images/badges/not-a-bug-a-feature.svg>
+           <img src=https://forthebadge.com/images/badges/powered-by-black-magic.svg>
 
 ### 📜 Štatistiky 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Slenkston&show_icons=true)

@@ -1,12 +1,1 @@
-<div align="center">
-    <h1>Slenky</h1>
-    <img src="https://forthebadge.com/images/badges/powered-by-black-magic.svg" height="30">&nbsp;
-</div>
-
-* **Web:** https://slenky.net
-* **Instagram:** [@slenkston](https://instagram.com/slenkston)
-* **Steam:** [Slenky](https://steamcommunity.com/profiles/76561198968393515)
-
-## Projekty:
-
-* **[Karot](https://karot.xyz)**
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21gfgmyr4dc6ihzt7oayrq75a&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile)
